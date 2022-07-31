@@ -1,0 +1,53 @@
+Altium Designer Pick and Place Locations
+F:\FIT VUT\=DP2=\RPIZeroShield\RPiZeroShield\Project Outputs for RPiZeroShield\Pick Place\Pick Place for PCB1.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       09/05/22
+Time:       06:05
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment            Layer       Footprint                        Center-X(mil) Center-Y(mil) Rotation Description                                                                                   
+C11        GRM3195C1H104GA05D BottomLayer FP-GRM319-0_15-IPC_A             2170.079      158.661       0        "Multi-Layer Ceramic Capacitor 0.1uF C0G 2% 1206 Paper T/R"                                   
+R18        ERJ-P08D1002V      TopLayer    ERJP08_(1206)                    1332.284      477.756       270      "Res Thick Film 1206 10K Ohm 0.5% 0.33W ±100ppm/°C Molded SMD Punched Carrier T/R"            
+R17        ERJ-P08D1002V      TopLayer    ERJP08_(1206)                    1476.378      477.953       270      "Res Thick Film 1206 10K Ohm 0.5% 0.33W ±100ppm/°C Molded SMD Punched Carrier T/R"            
+Q1         BSS138W-7-F        BottomLayer DIOD-SOT323-3_V                  1408.661      475.984       180      "N?? VDS=50V VGS=±20V ID=200mA P=200mW"                                                       
+P3         M22-2010805        TopLayer    HDRV8W60P0X200_1X8_1600X200X525P 2453.937      590.551       90       "Connector, Header, 8Pos, 1Row, 2Mm Rohs Compliant: Yes"                                      
+P2         22-05-2041         TopLayer    22052041                         1459.449      90.551        180      "Connector Unshrouded Header 4 Position 2.54mm Solder Right Angle Thru-Hole Bulk"             
+U5         MCP3422A1-E/SN     BottomLayer SOIC-SN8_N                       848.425       250.000       0        "2-Channel Single ADC Delta-Sigma 3.75sps 18-bit Serial Automotive 8-Pin SOIC N Tube"         
+U4         PCA9306D,118       BottomLayer SOIC127P600X175-8N               907.874       743.701       0        "PCA9306 Series 3.3 V Dual Bidirectional Voltage-Level Translator - SOIC-8"                   
+U3         VEML7700-TT        TopLayer    VEML7700                         196.260       589.961       90       "Light to Digital Ambient Light Sensor Digital 0lux to 167000lux 8-Pin SMD T/R"               
+U2         SEN-17049          TopLayer    SEN17049                         1968.898      499.370       90       "Smoke Sensor - MQ-2"                                                                         
+U1         EKMC1603111        TopLayer    FP-EKMC1603111-MFG               791.819       499.370       0        "PaPIRs MOTION SENSOR VZ series 170uA (White) 12m detection range"                            
+R16        ERJ-P08D1002V      TopLayer    ERJP08_(1206)                    1446.063      238.189       180      "Res Thick Film 1206 10K Ohm 0.5% 0.33W ±100ppm/°C Molded SMD Punched Carrier T/R"            
+R15        ERJ-P08D1002V      BottomLayer ERJP08_(1206)                    1131.496      315.354       180      "Res Thick Film 1206 10K Ohm 0.5% 0.33W ±100ppm/°C Molded SMD Punched Carrier T/R"            
+R14        ERJ-P06D6801V      BottomLayer ERJP06_(0805)                    1459.055      234.252       0        "Res Thick Film 0805 6.8K Ohm 0.5% 0.25W ±100ppm/°C Molded SMD Punched Carrier T/R"           
+R13        ERJ-P06D6801V      BottomLayer ERJP06_(0805)                    1132.677      178.740       0        "Res Thick Film 0805 6.8K Ohm 0.5% 0.25W ±100ppm/°C Molded SMD Punched Carrier T/R"           
+R12        RCC12062K20FKEA    BottomLayer RCC1206_e3                       1171.653      853.543       180      "Res, Aec-Q200, 2K2, 1%, 0.5W, 1206 Rohs Compliant: Yes"                                      
+R11        RCC12062K20FKEA    BottomLayer RCC1206_e3                       1171.653      709.055       180      "Res, Aec-Q200, 2K2, 1%, 0.5W, 1206 Rohs Compliant: Yes"                                      
+R10        RCC12062K20FKEA    BottomLayer RCC1206_e3                       538.583       709.055       90       "Res, Aec-Q200, 2K2, 1%, 0.5W, 1206 Rohs Compliant: Yes"                                      
+R9         RCC12062K20FKEA    BottomLayer RCC1206_e3                       653.150       709.449       90       "Res, Aec-Q200, 2K2, 1%, 0.5W, 1206 Rohs Compliant: Yes"                                      
+R8         RCC1206200KFKEA    BottomLayer RCC1206_e3                       1236.220      565.748       0        "Res, AEC-Q200, 200K, 1%, 0.5W, 1206 Rohs Compliant: Yes"                                     
+R7         RC1206JR-7W2RL     BottomLayer RESC3116X65N                     2236.220      803.150       0        "Res Thick Film 1206 2 Ohm 5% 0.5W(1/2W) ±200ppm/C Pad SMD T/R"                               
+R6         RCC12064K70FKEA    BottomLayer RCC1206_e3                       1594.882      603.937       270      "Res, 4K7, 1%, 0.5W, 1206, Thick Film;"                                                       
+R5         RC1206FR-07100KL   BottomLayer RESC3116X65X40LL10T20            559.449       542.520       180      "???? 100000? ± 1.00% 0.25W ± 100ppm/? 1206"                                                  
+R4         ERJ-6ENF51R0V      TopLayer    RESC2013X70X40LL20T20            290.551       796.063       270      "???? 51? ±1% 1/8W ±100ppm/? 0805"                                                            
+R3         ERJ-6ENF51R0V      TopLayer    RESC2013X70X40LL20T20            288.583       367.323       90       "???? 51? ±1% 1/8W ±100ppm/? 0805"                                                            
+R2         ERJ-6ENF51R0V      BottomLayer RESC2013X70X40LL20T20            617.323       857.874       180      "???? 51? ±1% 1/8W ±100ppm/? 0805"                                                            
+R1         ERJ-6ENF51R0V      BottomLayer RESC2013X70X40LL20T20            1984.646      848.032       180      "???? 51? ±1% 1/8W ±100ppm/? 0805"                                                            
+MIC2       SPH0645LM4H-B      BottomLayer FP-SPH0645LM4H-B-MFG             158.512       826.378       90       "Crawford Mic Dgt I2S Bottom Port"                                                            
+MIC1       SPH0645LM4H-B      BottomLayer FP-SPH0645LM4H-B-MFG             158.512       353.543       90       "Crawford Mic Dgt I2S Bottom Port"                                                            
+C10        T491A106K020AT     BottomLayer FP-T491A106K020AT-MFG            518.504       259.449       90       "Cap Tant Solid 10uF 20V A CASE 10% (3.2 X 1.6 X 1.6mm) Inward L SMD 3216-18 5 Ohm 125°C T/R" 
+C9         GRM3195C1H104GA05D BottomLayer FP-GRM319-0_15-IPC_A             624.016       231.890       270      "Multi-Layer Ceramic Capacitor 0.1uF C0G 2% 1206 Paper T/R"                                   
+C8         C0805C101F3HACTU   BottomLayer FP-C0805C-DN-IPC_A               1051.575      541.732       270      "100.pf 25.0V Rohs Compliant: Yes"                                                            
+C7         GRM3195C1H104GA05D BottomLayer FP-GRM319-0_15-IPC_A             144.882       590.945       180      "Multi-Layer Ceramic Capacitor 0.1uF C0G 2% 1206 Paper T/R"                                   
+C6         ECE-A0JKS101B      TopLayer    CAPPRD250W50D630H600             1381.890      772.047       0        "Cap Aluminum 100uF 6.3V 20% (6.3 X 5mm) Radial 5mm 71mA 1000 hr 85°C Ammo Pack"              
+C5         GRM3195C1H104GA05D BottomLayer FP-GRM319-0_15-IPC_A             666.929       438.583       0        "Multi-Layer Ceramic Capacitor 0.1uF C0G 2% 1206 Paper T/R"                                   
+C4         GRM3195C1H104GA05D BottomLayer FP-GRM319-0_15-IPC_A             404.724       354.331       90       "Multi-Layer Ceramic Capacitor 0.1uF C0G 2% 1206 Paper T/R"                                   
+C3         GRM3195C1H104GA05D BottomLayer FP-GRM319-0_15-IPC_A             404.724       812.598       90       "Multi-Layer Ceramic Capacitor 0.1uF C0G 2% 1206 Paper T/R"                                   
+C2         C1206C201F4HACTU   BottomLayer FP-C1206C-EB-MFG                 301.181       354.724       270      ""                                                                                            
+C1         C1206C201F4HACTU   BottomLayer FP-C1206C-EB-MFG                 301.181       827.953       270      ""                                                                                            
+P1         61304021821        BottomLayer 61304021821                      1279.528      1043.307      0        "THT Vertical Socket Header WR-PHD, Pitch 2.54 mm, Dual Row, 40 pins"                         
