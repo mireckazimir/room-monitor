@@ -1,3 +1,8 @@
 # Room monitoring shield for Raspberry Pi Zero
+Part of Master's thesis "Multisensor Module for Raspberry Pi Zero"
 
-Hardware design and software implementation of Room monitoring shield for Master's thesis.
+###Hardware design
+PCB designed in Altium designer
+
+###Software implementation
+
